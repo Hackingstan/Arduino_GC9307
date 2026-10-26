@@ -1,0 +1,10 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Arduino_GC9307	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+tftInit	KEYWORD2
+setRotation	KEYWORD2
